@@ -1,5 +1,7 @@
 # d3-book
 
+I updated the code for the update to d3
+
 These are sample code files to accompany the book “Interactive Data Visualization for the Web” by Scott Murray, published in March 2013 by O’Reilly.
 
 - [O’Reilly book page](http://shop.oreilly.com/product/0636920026938.do)
@@ -12,12 +14,8 @@ These are sample code files to accompany the book “Interactive Data Visualizat
 
 **Important:** Make sure you are using the correct version of these example files!  Otherwise, the examples you see here may not exactly match the ones you see in the book.
 
-This is version **1.0**.  This release matches examples seen in the first edition of the book, published March 2013.
+This is version **4.0**.  This does not match examples in the book
 
 
 
-### License
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
-
-http://creativecommons.org/licenses/by-nc-nd/3.0/
